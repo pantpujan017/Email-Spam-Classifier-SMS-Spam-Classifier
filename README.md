@@ -28,7 +28,7 @@ A simple and fast web app that classifies your message as **Spam** or **Not Spam
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/spam-classifier.git
+git clone https://github.com/pantpujan017/spam-classifier.git
 cd spam-classifier
 
 # Set up virtual environment
